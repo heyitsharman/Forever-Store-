@@ -34,11 +34,11 @@ Forever Store is a modern e-commerce platform built with React and Node.js. Cust
 
 ## Live Preview
 
-**Frontend:** [Add your deployed frontend URL here]
+**Frontend:** [https://forever-store-delta.vercel.app/]
 
-**Admin Panel:** [Add your deployed admin URL here]
+**Admin Panel:** [https://forever-store-admin.vercel.app/]
 
-**Backend API:** [Add your deployed backend URL here]
+**Backend API:** [https://forever-backend-sooty-omega.vercel.app/]
 
 ## Features
 
